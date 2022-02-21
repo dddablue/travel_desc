@@ -2,4 +2,4 @@
 
 반응형 웹페이지 사이트 입니다 
 원 사이트 : https://ggtour.or.kr/
-반응형 사이트 주소 : 
+반응형 사이트 주소 : https://dddablue.github.io/portpolio/경기관광포털/데스크탑사이트/index.html
